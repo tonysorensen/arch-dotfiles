@@ -1,9 +1,0 @@
-[2021-02-19 18:02:23.765] [renderer1] [error] Error: Unable to read file '/home/tony/webDev/htmlPersonalSite/contact.html' (Error: Unable to resolve non-existing file '/home/tony/webDev/htmlPersonalSite/contact.html')
-    at Object._ [as createErrorWithActions] (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6:5956)
-    at n.handleSetInputError (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1891:79018)
-    at n.handleSetInputError (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1891:81679)
-    at n.setInput (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1891:78735)
-    at async u.doSetInput (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1584:10520)
-    at async u.openEditor (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1584:9082)
-    at async file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2265:15707
-    at async Ti.restoreEditors (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2265:8823)
