@@ -1,0 +1,1 @@
+[2021-02-19 18:01:25.582] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/tony/webDev/Bootstrap/tindog/.vscode'

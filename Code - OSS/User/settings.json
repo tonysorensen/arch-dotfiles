@@ -1,0 +1,36 @@
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "editor.fontFamily": "Jetbrains Mono, 'monospace', monospace, 'Droid Sans Fallback'",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.sideBar.location": "left",
+    "oneDarkPro.vivid": true,
+    "oneDarkPro.editorTheme": "vscode",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "workbench.statusBar.visible": true,
+    "editor.fontLigatures": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "editor.linkedEditing": true,
+    "vim.cursorStylePerMode.insert": "line",
+    "vim.cursorStylePerMode.normal": "block",
+    "vim.enableNeovim": true,
+    "vim.statusBarColorControl": true,
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#005f5f",
+        "statusBar.noFolderBackground": "#005f5f",
+        "statusBar.debuggingBackground": "#005f5f"
+    },
+    "vim.cursorStylePerMode.visual": "underline",
+    "editor.fontSize": 16,
+    "editor.minimap.enabled": false,
+    "vim.leader": " ",
+    "vim.commandLineModeKeyBindingsNonRecursive": [
+    
+    ],
+    "editor.wordWrap": "on",
+}

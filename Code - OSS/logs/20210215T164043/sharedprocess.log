@@ -1,0 +1,13 @@
+[2021-02-15 16:41:26.840] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-02-16 04:41:30.772] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2021-02-16 04:41:34.672] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode undefined
+[2021-02-16 04:41:34.871] [sharedprocess] [info] Extracted extension to /home/tony/.vscode-oss/extensions/.esbenp.prettier-vscode-5.9.2: esbenp.prettier-vscode
+[2021-02-16 04:41:34.871] [sharedprocess] [info] Renamed to /home/tony/.vscode-oss/extensions/esbenp.prettier-vscode-5.9.2
+[2021-02-16 04:41:34.872] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2021-02-16 04:41:34.878] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2021-02-17 04:41:34.193] [sharedprocess] [info] Installing extension: zhuangtongfa.material-theme
+[2021-02-17 04:41:36.036] [sharedprocess] [info] Downloaded extension: zhuangtongfa.material-theme undefined
+[2021-02-17 04:41:36.101] [sharedprocess] [info] Extracted extension to /home/tony/.vscode-oss/extensions/.zhuangtongfa.material-theme-3.9.15: zhuangtongfa.material-theme
+[2021-02-17 04:41:36.101] [sharedprocess] [info] Renamed to /home/tony/.vscode-oss/extensions/zhuangtongfa.material-theme-3.9.15
+[2021-02-17 04:41:36.102] [sharedprocess] [info] Installation completed. zhuangtongfa.material-theme
+[2021-02-17 04:41:36.106] [sharedprocess] [info] Extensions installed successfully: zhuangtongfa.material-theme
